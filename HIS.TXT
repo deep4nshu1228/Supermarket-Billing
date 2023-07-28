@@ -1,0 +1,28 @@
+
+Bill No. : 6419401
+__________________________________________________
+Name:VegetablesQuantity:1Price:0
+Name:qQuantity:5.88424e-039Price:0
+Name:Quantity:0Price:0
+__________________________________________________
+
+Bill No. : 6419402
+__________________________________________________
+Name:VegetablesQuantity:1Price:0
+Name:qQuantity:5.88424e-039Price:0
+Name:Quantity:0Price:0
+__________________________________________________
+
+Bill No. : 6419403
+__________________________________________________
+Name:VegetablesQuantity:1Price:0
+Name:qQuantity:5.88424e-039Price:0
+Name:Quantity:0Price:0
+__________________________________________________
+
+Bill No. : 6419404
+__________________________________________________
+Name:VegetablesQuantity:1Price:0
+Name:qQuantity:5.88424e-039Price:0
+Name:Quantity:0Price:0
+__________________________________________________
